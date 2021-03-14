@@ -1,1 +1,4 @@
 Record=TopLevelDocument|FileName=Top Level.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=Connectors and USB|SchDesignator=Connectors and USB|FileName=Connectors and USB.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Connectors and USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=STM32 Microcontroller|SchDesignator=STM32 Microcontroller|FileName=STM32.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Top Level.SchDoc|FileName=Sensors.SchDoc|SheetNumber= 
