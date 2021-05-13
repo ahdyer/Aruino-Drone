@@ -1,7 +1,7 @@
-## Repoistory Name
+## Arduino-Drone
 
 ### Description
-Breif Description of system and how it functions<br />
+STM32 based flight controller, developed as a final year project for the university of bath<br />
 
 ### Starting
 To download this project to your computer:
