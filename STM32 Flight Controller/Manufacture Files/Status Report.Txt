@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [STM32 Flight Controller.PrjPcb]
+   Generated File[FlightController.GTO]
+   Generated File[FlightController.GTP]
+   Generated File[FlightController.GTS]
+   Generated File[FlightController.GTL]
+   Generated File[FlightController.G1]
+   Generated File[FlightController.G2]
+   Generated File[FlightController.GBL]
+   Generated File[FlightController.GBS]
+   Generated File[FlightController.GBP]
+   Generated File[FlightController.GBO]
+   Generated File[FlightController.GM1]
+   Generated File[FlightController.GM13]
+   Generated File[FlightController.GM15]
+   Generated File[FlightController.GM32767]
+   Generated File[FlightController.GKO]
+   Generated File[FlightController.GPT]
+   Generated File[FlightController.GPB]
+   Generated File[FlightController.RUL]
+   Generated File[FlightController.EXTREP]
+   Generated File[FlightController.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 11:44:23 On 16/03/2022
