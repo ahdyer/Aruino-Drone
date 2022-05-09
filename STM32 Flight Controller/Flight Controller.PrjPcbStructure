@@ -1,5 +1,5 @@
 Record=TopLevelDocument|FileName=Top Level.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=Connectors and USB|SchDesignator=Connectors and USB|FileName=Connectors and USB.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Connectors and USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=Mbed Microcontroller|SchDesignator=Mbed Microcontroller|FileName=Mbed.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Mbed.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=Power Regulation|SchDesignator=Power Regulation|FileName=Power Regulation.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Power Regulation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Top Level.SchDoc|Designator=Sensors|SchDesignator=Sensors|FileName=Sensors.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Top Level.SchDoc|FileName=Mbed.SchDoc|SheetNumber=2

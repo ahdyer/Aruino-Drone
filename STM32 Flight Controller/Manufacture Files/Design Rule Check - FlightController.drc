@@ -1,0 +1,63 @@
+Protel Design System Design Rule Check
+PCB File : H:\Users\fores\Documents\GitHub\Aruino-Drone\STM32 Flight Controller\FlightController.PcbDoc
+Date     : 10/05/2022
+Time     : 00:38:41
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=10mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.127mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-1(25.75mm,27.75mm) on Top Layer And Pad IC401-2(25.75mm,27.35mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-10(27.45mm,25.25mm) on Top Layer And Pad IC401-11(27.85mm,25.25mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-10(27.45mm,25.25mm) on Top Layer And Pad IC401-9(27.05mm,25.25mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-11(27.85mm,25.25mm) on Top Layer And Pad IC401-12(28.25mm,25.25mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-13(28.75mm,25.75mm) on Top Layer And Pad IC401-14(28.75mm,26.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-14(28.75mm,26.15mm) on Top Layer And Pad IC401-15(28.75mm,26.55mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-15(28.75mm,26.55mm) on Top Layer And Pad IC401-16(28.75mm,26.95mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-16(28.75mm,26.95mm) on Top Layer And Pad IC401-17(28.75mm,27.35mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-17(28.75mm,27.35mm) on Top Layer And Pad IC401-18(28.75mm,27.75mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-19(28.25mm,28.25mm) on Top Layer And Pad IC401-20(27.85mm,28.25mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-2(25.75mm,27.35mm) on Top Layer And Pad IC401-3(25.75mm,26.95mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-20(27.85mm,28.25mm) on Top Layer And Pad IC401-21(27.45mm,28.25mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-21(27.45mm,28.25mm) on Top Layer And Pad IC401-22(27.05mm,28.25mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-22(27.05mm,28.25mm) on Top Layer And Pad IC401-23(26.65mm,28.25mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-23(26.65mm,28.25mm) on Top Layer And Pad IC401-24(26.25mm,28.25mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-3(25.75mm,26.95mm) on Top Layer And Pad IC401-4(25.75mm,26.55mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-4(25.75mm,26.55mm) on Top Layer And Pad IC401-5(25.75mm,26.15mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-5(25.75mm,26.15mm) on Top Layer And Pad IC401-6(25.75mm,25.75mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-7(26.25mm,25.25mm) on Top Layer And Pad IC401-8(26.65mm,25.25mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.1mm < 0.127mm) Between Pad IC401-8(26.65mm,25.25mm) on Top Layer And Pad IC401-9(27.05mm,25.25mm) on Top Layer [Top Solder] Mask Sliver [0.1mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.089mm < 0.127mm) Between Pad S401-3(26.189mm,51.745mm) on Top Layer And Via (26.189mm,50.721mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.089mm]
+Rule Violations :21
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 21
+Waived Violations : 0
+Time Elapsed        : 00:00:01

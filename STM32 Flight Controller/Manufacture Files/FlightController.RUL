@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\fores\Documents\GitHub\Aruino-Drone\STM32 Flight Controller\FlightController.PcbDoc
+DRC Rules Export File for PCB: H:\Users\fores\Documents\GitHub\Aruino-Drone\STM32 Flight Controller\FlightController.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00

@@ -1,6 +1,6 @@
 CAMtasticDXP Drill Report
 Serial Number:0000-00-00000
-Drill File: C:\Users\fores\Documents\GitHub\Aruino-Drone\STM32 Flight Controller\Manufacture Files\cam.drl
+Drill File: H:\Users\fores\Documents\GitHub\Aruino-Drone\STM32 Flight Controller\Manufacture Files\cam.drl
 Format: 2.3
 Units: English (Inch)
 Step & Repeat Codes Used: NO
@@ -9,11 +9,10 @@ Step & Repeat Codes Used: NO
 TOOL		SIZE		COUNT
 ====		======		=====
 
- 1 		0.0079		44
- 2 		0.0157		5
- 3 		0.0236		9
- 4 		0.0354		2
- 5 		0.0394		33
- 6 		0.0413		45
- 7 		0.0453		4
- 8 		0.1378		4
+ 1 		0.0079		34
+ 2 		0.0236		12
+ 3 		0.0354		2
+ 4 		0.0394		35
+ 5 		0.0413		44
+ 6 		0.0453		2
+ 7 		0.1378		4
